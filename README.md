@@ -1,4 +1,4 @@
-# Exp-1 ATM & BANKING SYSTEM
+# Exp - 1 ATM & BANKING SYSTEM
 
 # AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
